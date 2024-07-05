@@ -52,7 +52,7 @@ from openai import OpenAI
 ### 3.1 Setting up API Key
 """
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-DLbPDOnYvszGBPfHyHZzT3BlbkFJR5ZzzsMHfnDKdbbcNte6"
+os.environ["OPENAI_API_KEY"] = "sk-*******************************"
 client = OpenAI()
 
 """### 3.2 OpenAI available models"""
